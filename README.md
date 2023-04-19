@@ -1,4 +1,5 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+
+
 <h1 align="center">Hi 👋, I'm AlanTang</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
