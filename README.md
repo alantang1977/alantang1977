@@ -1,5 +1,5 @@
 
-![Uploading photo_2024-01-08.jpg…]()
+![photo_2024-01-08](https://github.com/alantang1977/alantang1977/assets/107459091/cc42578a-dffc-438c-9b95-c9d4addd87c1)
 
 
 
