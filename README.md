@@ -1,5 +1,5 @@
+![photo_202401015](https://github.com/alantang1977/alantang1977/assets/107459091/f7154bc4-012a-4d16-835d-a9a7a8fc25b9)
 
-![photo_202401015](https://github.com/alantang1977/alantang1977/assets/107459091/b3efff63-bc08-4345-884c-897d46ff3769)
 
 <h1 align="center">Hi 👋, I'm AlanTang</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
