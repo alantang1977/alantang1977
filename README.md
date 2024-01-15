@@ -1,4 +1,3 @@
-![photo_202401015](https://github.com/alantang1977/alantang1977/assets/107459091/f7154bc4-012a-4d16-835d-a9a7a8fc25b9)
 
 
 <h1 align="center">Hi 👋, I'm AlanTang</h1>
