@@ -1,4 +1,6 @@
 
+![photo_202401015jpg](https://github.com/alantang1977/alantang1977/assets/107459091/7b302bb1-1c5a-4ade-9db2-f591d847c4f7)
+
 <h1 align="center">Hi 👋, I'm AlanTang</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
