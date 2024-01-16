@@ -1,4 +1,5 @@
-![photo_2024-01-08_12-04-56](https://github.com/alantang1977/alantang1977/assets/107459091/050f34ee-0525-45da-9aa2-3f7f4553f447)
+
+![图层 0](https://github.com/alantang1977/alantang1977/assets/107459091/3a80b8e1-5fc5-463c-a2ff-7895df16df36)
 
 
 <h1 align="center">Hi 👋, I'm AlanTang</h1>
