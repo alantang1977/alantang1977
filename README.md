@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm AlanTang</h1>
+![a214640a9c7b490d2826938bcbc294e1](https://github.com/alantang1977/alantang1977/assets/107459091/6d55e5dd-02b5-4640-8321-3ea271e60fa8)
+
+<h1 align="center">Hi 👋, I'm Ala![Uploading a214640a9c7b490d2826938bcbc294e1.gif…]()
+nTang</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
 <h3 align="left">Languages and Tools:</h3>
