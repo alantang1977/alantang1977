@@ -2,21 +2,19 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=思维没有边界+一切皆有可能&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&pause=1000&color=11F721&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+super+obsessed+with+programming!" />
 </p>
-
-
-
-
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=alantang1977&theme=transparent&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=alantang1977&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=alantang1977&theme=onedark-duo&hide_border=true&locale=zh_Hans&date_format=%5BY%20%5DM%20j" />
 <br/>
+
+
+  
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=alantang1977&theme=github-compact&hide_border=true&area=true" />
 <br/>
