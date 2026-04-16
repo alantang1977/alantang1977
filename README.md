@@ -9,8 +9,7 @@
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=alantang1977&theme=ambient_gradient&locale=cn&card_width=400" /> 
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="350" src="https://streak-stats.demolab.com/?user=alantang1977&theme=ambient-gradient&hide_border=%E5%81%87&locale=zh_Hans&short_numbers=%E5%81%87&card_width=350" />
+<img align="center" width="410" src="https://streak-stats.demolab.com/?user=alantang1977&theme=ambient-gradient&hide_border=%E5%81%87&locale=zh_Hans&short_numbers=%E5%81%87&card_width=410" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
